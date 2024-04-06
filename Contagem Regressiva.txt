@@ -1,0 +1,7 @@
+//receber o número do usuário
+//verificar se o número é mair que zero
+//se não for, solicitar um número válido
+//iniciar um loop com while até o que o numero seja igual zero;
+//subtrair 1 do número fornecido pelo usuário e imprimilo;
+//se o númerio ainda for maior que 0, subtrair 1 novamente e imprimir;
+//continuar até que o número seja igual a zero.
