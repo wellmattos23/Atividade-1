@@ -1,0 +1,10 @@
+levando em considereação que o usuario tenha 10 tentativas;
+primeiramente recebos a resposta do usuário;
+criamos um condição com while para o programa continuar rodando equanto a resposta do usuário estiver errada
+e encerrar caso a respota esteja certa;
+podemos definir um contador de tentantivas erradas = 0;
+a cada erro o algoritmo soma 1 ao contador;
+para saída de dicas iremos verificar o contador e se o numero iseriodo pelo usuário é maior ou menor;
+com o uso de um if para que de acordo com o numero de erro as dicas serão mostradas ao usuário;
+exemplo: se contador = 2, imprirmir primeira dica;
+se contador = 3, imprimir segunda dica e assim por diante até se encerrar o numero de tentativas ou usuário acertar.
