@@ -1,0 +1,5 @@
+//passar para o usuário 2 opções de conversão e 1 opção para encerrar o programa;
+//solicitar temperatura;
+//definir com if qual operação de conversão será realizada;
+//imprimir o resultado a conversão;
+//criar loop de repetição com while para que o programa continue em execução até o usuário decidir encerrado;
