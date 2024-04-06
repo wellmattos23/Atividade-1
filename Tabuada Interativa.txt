@@ -1,0 +1,9 @@
+//solicitar número do usuário;
+//verificar se o número positivo e válido;
+//se não for válido, solicitar um novo número até que o mesmo seja válido;
+//criar um laço while para que o progama continue em exucução até que o usuário digite a letra "q";
+//criar outro laço while dentro do primeiro com um contador = 1;
+//multiplicar numero com o cantador;
+//imprimir o valor;
+//acrescentar 1 ao contador a cada vez que for execultado;
+//encerrar while quando contador for = 9.
